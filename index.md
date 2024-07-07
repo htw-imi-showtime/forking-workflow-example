@@ -17,3 +17,4 @@ change by bkleinen 3.1
 change by bkleinen 3.2
 change by bkleinen 3.3
 change by drblinken 5.1
+change by drblinken 5.2
